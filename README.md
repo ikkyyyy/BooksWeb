@@ -12,9 +12,8 @@ Aplikasi ini merupakan sistem manajemen dan eksplorasi buku berbasis web, dikemb
 - Proteksi route dengan auth & verified
 
 📊 Dashboard Interaktif
-- Kartu total buku, pengguna terverifikasi & belum
-- Pie chart statistik user (verifikasi)
-- Bar chart jumlah buku per bulan
+- Kartu total buku,total pengguna, pengguna terverifikasi & belum
+- Statistik Buku Berdasarkan Rating
 
 👥 Manajemen Pengguna
 - Daftar pengguna (pencarian nama/email)
@@ -64,9 +63,7 @@ Lulusan: SMK Wikrama Bogor, 2025
 Framework: Laravel 10.x  
 Frontend: Blade (Laravel Breeze)  
 Database: PostgreSQL  
-Auth: Laravel Breeze + Email Verification  
-Charting: Chart.js  
-Styling: Tailwind CSS  
+Auth: Laravel Breeze + Email Verification   
 Email Testing: Mailtrap.io  
 Testing: PHPUnit  
 

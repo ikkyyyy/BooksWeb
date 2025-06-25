@@ -1,6 +1,6 @@
 rizky_fdtest
 
-Aplikasi ini merupakan sistem manajemen dan eksplorasi buku berbasis web, dikembangkan sebagai bagian dari tes teknikal Fullstack Developer. Menggunakan Laravel (Blade), PostgreSQL, dan Laravel Breeze, aplikasi ini memiliki fitur lengkap: autentikasi, manajemen buku, rating, komentar, filter, hingga statistik visual interaktif menggunakan Chart.js.
+Aplikasi ini merupakan sistem manajemen dan eksplorasi buku berbasis web, dikembangkan sebagai bagian dari tes teknikal Fullstack Developer. Menggunakan Laravel (Blade), PostgreSQL, dan Laravel Breeze, aplikasi ini memiliki fitur lengkap: autentikasi, manajemen buku, rating, komentar, filter, statistik
 
 ✨ Fitur Utama
 
@@ -42,9 +42,6 @@ Aplikasi ini merupakan sistem manajemen dan eksplorasi buku berbasis web, dikemb
 - Integration Test: rating, komentar, filter publik
 
 📄 Library & Tools Pihak Ketiga
-
-Chart.js - Grafik statistik di dashboard  
-Tailwind CSS - Styling cepat & responsif  
 Laravel Breeze - Sistem auth & verifikasi email  
 Mailtrap.io - Testing pengiriman email saat dev  
 
@@ -73,9 +70,4 @@ Styling: Tailwind CSS
 Email Testing: Mailtrap.io  
 Testing: PHPUnit  
 
-📎 Screenshot (Opsional)
 
-Simpan screenshot di folder `public/screenshots` dan tampilkan seperti ini (jika diinginkan):
-
-![Dashboard](public/screenshots/dashboard.png)  
-![Daftar Buku](public/screenshots/daftar-buku.png)
